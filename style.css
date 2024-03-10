@@ -1,0 +1,12 @@
+img {
+    display: block;
+    height: 550px;
+    width: 400px;
+    object-fit: cover;
+    position: absolute;
+    cursor: pointer;
+}
+
+.d-none {
+    display: none;
+}
